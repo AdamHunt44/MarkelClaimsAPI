@@ -1,0 +1,6 @@
+@MarkelClaimsAPI_HostAddress = http://localhost:5048
+
+GET {{MarkelClaimsAPI_HostAddress}}/claims
+Accept: application/json
+
+###
